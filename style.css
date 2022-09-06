@@ -4,5 +4,17 @@
     margin-bottom: 100px;
 }
 .gm-carosail-text{
-    margin-top: 600px;
+    background-color: rgba(127, 255, 212, 0.558);
+    border-radius: 10px;
+    
 }
+
+.gm-getstarted-btn{
+    text-decoration: none;
+    background-color: rgb(255, 0, 238);
+    color: rgb(255, 255, 255);
+    font-size: large;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
