@@ -18,3 +18,21 @@
     border-radius: 5px;
 }
 
+.gm-Explore-img{
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+    
+}
+
+.gm-ready-section{
+    background-color: rgb(49, 156, 223);
+    padding: 20px 30px;
+}
+
+.gm-btn-sub{ 
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-top: 60px;
+
+}
