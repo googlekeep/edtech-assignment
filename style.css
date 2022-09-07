@@ -4,7 +4,7 @@
     margin-bottom: 100px;
 }
 .gm-carosail-text{
-    background-color: rgba(127, 255, 212, 0.558);
+    background-color: rgba(127, 255, 212, 0.273);
     border-radius: 10px;
     
 }
@@ -32,7 +32,66 @@
 
 .gm-btn-sub{ 
     margin-left: 350px;
-    margin-right: 50px;
+    margin-right: 40px;
     margin-top: 60px;
 
+}
+
+
+
+/* Meet Our Successfull  */
+
+  
+  .card-deck {
+    margin: 0 -15px;
+    justify-content: space-between;
+  }
+  
+  .card-deck .card {
+    margin: 0 0 1rem;
+  }
+  
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .card-deck .card {
+      -ms-flex: 0 0 48.7%;
+      flex: 0 0 48.7%;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .card-deck .card {
+      -ms-flex: 0 0 32%;
+      flex: 0 0 32%;
+    }
+  }
+  
+  @media (min-width: 992px)
+  {
+    .card-deck .card {
+      -ms-flex: 0 0 24%;
+      flex: 0 0 24%;
+    }
+  }
+  
+
+
+
+  /* whatsapp live app  */
+  .float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
 }
